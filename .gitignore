@@ -18,4 +18,7 @@ act_scales/
 act_shifts/
 pre_quantized_models/
 temp.sh
+wikitext/
+.vscode/
+opt/opt-1.3b/
 
